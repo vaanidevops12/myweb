@@ -3,6 +3,7 @@ lavanya
 latha
 chandra
 padma
+<<<<<<< HEAD
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
@@ -96,3 +97,10 @@ See 'git help git' for an overview of the system.
 fruit mango 
 papaya
 juice
+=======
+l 
+m
+u
+v
+s
+>>>>>>> 879e88e939a3c2ed19c18b3cdf5764ab7ff10e78
