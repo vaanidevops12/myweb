@@ -10,7 +10,7 @@
 	
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
-		<sonar.host.url>http:/35.175.181.26:9000/</sonar.host.url>
+		<sonar.host.url>http:/54.197.19.188:9000/</sonar.host.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <maven.compiler.source>1.7</maven.compiler.source>
                 <maven.compiler.target>1.7</maven.compiler.target>
@@ -37,7 +37,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.112.38.163:8081/repository/latha/</url>
+		    <url>http://52.207.244.106:8081/repository/latha-release/</url>
 		</repository>
   	</distributionManagement>
 	
